@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Project 1: UCLA Lord Lab Longitudinal Study\nThrough my role as a Research Asssistant, I contributed to the Longitudinal Study, which investigates autism and childhood development by gathering information from more than 200 families. I helped streamlined data management for by cleaning and importing 30+ years’ worth of data from two different sites into a new database. I developed an automated program using R Programming to transform questionnaires and patient examination guidelines for format compatibility with the REDCap software.\n\n\nProject 2: UCLA Economics 104 Data Analysis Project\nThis project aims to analyze financial statement data to assess the potential predictability of a company’s market capitalization. My team and I downloaded our dataset from Kaggle and evaluated its behavior through R Programming. In pursuit of building the most precise model, we evaluated the accuracy across pooled, fixed, and random effects models.\n\n\nProject 3: UCLA DataResolutions Data Blog Project\nI collaborated with 4 teammates to develop predictive models using R Programming in understanding the trends of happiness levels throughout different countries. After an in-depth cleaning of our dataset from Kaggle, we fit our data into different regressions to evaluate which fit is optimal for our dataset."
   },
   {
     "objectID": "index.html",
